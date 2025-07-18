@@ -6,6 +6,6 @@ Please edit this file whenever something needs to be done, so that we're all on 
 - Add movement to PlayerCharacter in PlayerCharacter.cpp
 ```
 
-This makes sure that everything is clear.
+This makes sure that everything is clear. 
 
 ## Item List
