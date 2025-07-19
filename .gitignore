@@ -79,3 +79,4 @@ DerivedDataCache/*
 
 # VSCode
 .vscode/*
+*.code-workspace
