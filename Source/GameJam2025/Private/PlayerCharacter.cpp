@@ -12,7 +12,7 @@ APlayerCharacter::APlayerCharacter()
 	// Creating the First-Person Camera
 	FirstPersonCamera = CreateDefaultSubobject<UCameraComponent>(TEXT("FirstPersonCamera"));
 	FirstPersonCamera->SetupAttachment(RootComponent);
-	FirstPersonCamera->SetRelativeLocation(FVector(0.f, 0.f, 64.f));
+	FirstPersonCamera->SetRelativeLocation(FVector(0.f, 0.f, -24.f));
 	FirstPersonCamera->bUsePawnControlRotation = true;
 
 	// These make the camera rotate with mouse input
